@@ -1,0 +1,1 @@
+Data correlation is when two metrics are strongly linked to each other and follow up on each other in a linear line. A correlation can be positive or negative. When a correlation is positive there is an increase of value.
